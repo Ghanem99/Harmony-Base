@@ -10,7 +10,7 @@
 |---|---|
 | AI Model | [GitHub Repo](link_to_ai_repo) |
 | Backend | [GitHub Repo](https://github.com/Ghanem99/Harmony) |
-| Flutter App | [GitHub Repo](https://github.com/ehsanashry2/OCD)) |
+| Flutter App | [GitHub Repo](https://github.com/ehsanashry2/OCD) |
 | Unity Game | [GitHub Repo](link_to_unity_repo) |
 | Blender 3D Models | [GitHub Repo](link_to_blender_repo) |
 
