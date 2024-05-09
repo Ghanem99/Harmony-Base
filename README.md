@@ -11,11 +11,10 @@
 | AI Model | [GitHub Repo](link_to_ai_repo) |
 | Backend | [GitHub Repo](https://github.com/Ghanem99/Harmony) |
 | Flutter App | [GitHub Repo](https://github.com/ehsanashry2/OCD) |
-| Unity Game | [GitHub Repo](link_to_unity_repo) |
-| Blender 3D Models | [GitHub Repo](link_to_blender_repo) |
+| Unity Game | [GitHub Repo](---) |
 
 **Design:**
 
-| Behance | [Link](link_to_behance) |
+| Blender 3D Models | [Link](---) |
 |---|---|
 | Figma | [Link](https://www.figma.com/file/kwl9fMqEP1STJsOGwG37XK/Harmony?type=design&node-id=0-1&mode=design) |
