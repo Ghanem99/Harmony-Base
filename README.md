@@ -8,7 +8,7 @@
 
 | Field | Project Link |
 |---|---|
-| AI Model | [GitHub Repo](link_to_ai_repo) |
+| AI Model | [GitHub Repo](https://github.com/eslamElsheikh/harmony) |
 | Backend | [GitHub Repo](https://github.com/Ghanem99/Harmony) |
 | Flutter App | [GitHub Repo](https://github.com/ehsanashry2/OCD) |
 | Unity Game | [GitHub Repo](---) |
